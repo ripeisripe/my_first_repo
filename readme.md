@@ -1,29 +1,24 @@
 
-# This is a large heading
+# Titim
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in a city near a river, in a landscape of building.
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
+### Music
 
-Here is `some code` in the middle of a sentence.
+My favorite music genre:
 
-```
-This is
-a block
-of code
-```
+- Hiphop
+- Pop
+- Music in general, in particulary all things that appreciate my ears.
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Food
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+- Pizza?
+- Ice cream...
+
+### Contact
+
+Use firesignal like American Indias.
